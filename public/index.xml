@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Even - A super concise theme for Hugo</title>
+    <link>https://joe07274.github.io/</link>
+    <description>Recent content on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://joe07274.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>使用github的issues功能写博客</title>
+      <link>https://joe07274.github.io/blog_20201003_1/</link>
+      <pubDate>Sat, 03 Oct 2020 02:36:25 +0000</pubDate>
+      
+      <guid>https://joe07274.github.io/blog_20201003_1/</guid>
+      <description>参考的资料： https://github.com/zp1112/blog/issues/3 本文通过 mirror 和 hugo 生成，原始地址 https://github.com/joe07274/blog/issues/1</description>
+    </item>
+    
+  </channel>
+</rss>
