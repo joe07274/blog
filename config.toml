@@ -1,13 +1,13 @@
-baseurl = "https://spf13.com/"
-title = "Hacking Management"
+baseurl = "https://joe07274.github.io/myblog"
+title = "dodo ❤ bobo's blog"
 languageCode = "en-us"
-disqusShortname = "spf13"
+disqusShortname = "joe07274"
 copyright = "Copyright (c) 2008 - 2019, Steve Francia; all rights reserved."
 MetaDataFormat = "toml"
 googleAnalytics = "UA-7131036-1"
 
 [author]
-    name = "Steve Francia"
+    name = "joe07274"
 
 [indexes]
     tag = "tags"
